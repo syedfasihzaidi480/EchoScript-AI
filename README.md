@@ -21,3 +21,7 @@ This is an AI-powered **Speech-to-Text** application built using **OpenAI’s Wh
 ## 🚀 Installation & Setup
 Follow these steps to **set up the Whisper AI Speech-to-Text app** locally:
 
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/fasihzaidi/whisper-ai-transcriber.git
+cd whisper-ai-transcriber
