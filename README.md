@@ -2,6 +2,7 @@
 Convert Audio, and Video into Text
 
 This is an AI-powered **Speech-to-Text** application built using **OpenAI’s Whisper model**, **Streamlit**, and **ngrok**. It allows users to **upload an audio/video file or provide a URL** to transcribe speech into text.
+![1](https://github.com/user-attachments/assets/18385961-9bf1-4c44-927c-fb5f6b9fa29c)
 
 ## 🌟 Features
 ✅ **Supports multiple audio formats** (`.wav`, `.mp3`, `.mp4`, `.m4a`)  
