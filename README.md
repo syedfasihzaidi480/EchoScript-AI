@@ -25,3 +25,25 @@ Follow these steps to **set up the Whisper AI Speech-to-Text app** locally:
 ```sh
 git clone https://github.com/syedfasihzaidi480/EchoScript-AI.git
 cd EchoScript-AI
+```
+
+## 2️⃣ Install Dependencies
+pip install -r requirements.txt
+
+## 3️⃣ Run the Application
+streamlit run app.py
+
+## 4️⃣ Expose Public URL (Optional)
+ngrok authtoken YOUR_NGROK_AUTH_TOKEN
+ngrok http 8501
+
+## 📝 How It Works
+-Upload an audio/video file or enter a URL to fetch a file.
+-Click the "Transcribe" button.
+-The Whisper AI model will process the file and generate a transcription.
+-View the transcription, language detected, and confidence score.
+-(Optional) Share the public ngrok URL to access the app remotely.
+
+
+✍️ Author
+Developed by Syed Fasih Zaidi.
